@@ -13,7 +13,7 @@ To set up the submodule for development, follow these steps:
 
 1. Clone the repository:
    ```
-   https://github.com/greentea135/curve-pool-atq-module
+   https://github.com/greentea135/curve-pools-atq-module
    ```
 2. Navigate into the repository directory:
 
